@@ -1,0 +1,28 @@
+img{
+	max-width: 100%;
+}
+.navbar-brand{
+	max-width: 50px;
+}
+section{
+	padding: 50px 0;
+	background-color: #161f29f0;
+}
+h1{
+	font-size: 65px;
+    color: white;
+    font-weight: 500;
+    line-height: 1;
+}
+ p{
+	font-size: 20px;
+    color: #909dab;
+    font-weight: 400;
+   
+}
+
+
+
+
+
+
