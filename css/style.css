@@ -4,6 +4,9 @@ img{
 .navbar-brand{
 	max-width: 50px;
 }
+.navbar-dark .navbar-nav .nav-link {
+    color: #ffffff;
+}
 section{
 	padding: 50px 0;
 	background-color: #161f29f0;
@@ -20,9 +23,3 @@ h1{
     font-weight: 400;
    
 }
-
-
-
-
-
-
